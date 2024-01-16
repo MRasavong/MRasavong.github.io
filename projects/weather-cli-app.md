@@ -18,18 +18,17 @@ Using the OpenWeatherMap API, I implemented temperatures in Celsius and Fahrenhe
 
 This was a personal project meant to help me learn full-stack development.
 
-Here is some code that illustrates how we read values from the line sensors:
+Here is some code that illustrates how I fetched data from the OpenWeatherMap API:
 
 ```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+app.post('/', function(req, res) {
+
+    // Get city name passed in the form
+    let city = req.body.city;
+
+    // Use the city name to fetch data
+    // Use the API_KEY in the '.env' file
+    let url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`;
 ```
 
 You can learn more at the [GitHub repository](https://github.com/MRasavong/weather-cli-app).
