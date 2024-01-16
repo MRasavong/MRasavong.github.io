@@ -28,8 +28,7 @@ app.post('/', function(req, res) {
     // Get city name passed in the form
     let city = req.body.city;
 
-    // Use the city name to fetch data
-    // Use the API_KEY in the '.env' file
+    /* Use the city and API_KEY in the '.env' file */
     let url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`;
 ```
 
