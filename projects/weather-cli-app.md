@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/weather-cli-app-image.png
+image: img/weather-cli-app-square.png
 title: "Weather Forecast CLI Application"
 date: July 2023
 published: true
