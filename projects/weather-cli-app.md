@@ -13,6 +13,7 @@ labels:
 summary: "I developed a full-stack command-line interface application using Node.js to display real-time weather forecasts for
 over 200,000 cities"
 ---
+<img class="img-fluid" src="../img/weather-cli-app-full.png">
 
 Using the OpenWeatherMap API, I implemented temperatures in Celsius and Fahrenheit, cloud coverage, visibility, humidity, atmospheric pressure, precipitation, and wind.
 
