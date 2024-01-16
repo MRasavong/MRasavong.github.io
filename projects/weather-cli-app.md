@@ -19,24 +19,18 @@ Using the OpenWeatherMap API, I implemented temperatures in Celsius and Fahrenhe
 
 This was a personal project meant to help me learn full-stack development.
 
-Here is some code that illustrates how I used the data fetched from the OpenWeatherMap API to display the output:
+Here is some code that illustrates how I fetched the data from the OpenWeatherMap API:
 
 ```cpp
-// Use the data to set up output
-let place = `${weather.name}, ${weather.sys.country}`,
-  /* Calculate the current timezone using the data fetched*/
-  weatherTimezone = `${new Date(weather.dt * 1000 - (weather.timezone * 1000))}`;
-let weatherTemp = `${weather.main.temp}`,
-  weatherPressure = `${weather.main.pressure}`,
-  /* Fetch the weather icon and its size using the icon data*/
-  weatherIcon = `http://openweathermap.org/img/wn/${weather.weather[0].icon}@2x.png`,
-  weatherDescription = `${weather.weather[0].description}`,
-  humidity = `${weather.main.humidity}`,
-  clouds = `${weather.clouds.all}`,
-  visibility = `${weather.visibility}`,
-  main = `${weather.weather[0].main}`,
-  weatherFahrenheit;
-weatherFahrenheit = ((weatherTemp * 9 / 5) + 32);
+// On a post request, the app shall fetch data from OpenWeatherMap using the given arguments
+app.post('/', function(req, res) {
+
+    // Get city name passed in the form
+    let city = req.body.city;
+
+    // Use the city name to fetch data
+    // Use the API_KEY in the '.env' file
+    let url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`;
 ```
 
 You can learn more at the [GitHub repository](https://github.com/MRasavong/weather-cli-app).
