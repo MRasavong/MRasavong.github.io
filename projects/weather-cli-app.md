@@ -9,7 +9,7 @@ labels:
   - JavaScript
   - HTML
   - CSS
-  - Git
+  - GitHub
 summary: "I developed a full-stack command-line interface application using Node.js to display real-time weather forecasts for
 over 200,000 cities"
 ---
