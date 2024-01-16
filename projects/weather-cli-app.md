@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/weather-cli-app-square.png
 title: "Weather Forecast CLI Application"
-date: July 2023
+date: 2023
 published: true
 labels:
   - JavaScript
