@@ -22,13 +22,9 @@ This was a personal project meant to help me learn full-stack development.
 Here is some code that illustrates how I fetched the data from the OpenWeatherMap API:
 
 ```cpp
-// On a post request, the app shall fetch data from OpenWeatherMap using the given arguments
 app.post('/', function(req, res) {
 
-    // Get city name passed in the form
     let city = req.body.city;
-
-    /* Use the city and API_KEY in the '.env' file */
     let url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`;
 ```
 
