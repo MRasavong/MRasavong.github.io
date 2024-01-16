@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/weather-cli-app-image.png
 title: "Weather Forecast CLI Application"
 date: July 2023
 published: true
