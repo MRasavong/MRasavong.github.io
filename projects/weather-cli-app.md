@@ -7,10 +7,11 @@ date: 2023
 published: true
 labels:
   - JavaScript
+  - Node.js
   - HTML
   - CSS
   - GitHub
-summary: "A full-stack command-line interface application using Node.js to display real-time weather forecasts for
+summary: "A full-stack command-line interface application that uses Node.js to display real-time weather forecasts for
 over 200,000 cities"
 ---
 <img class="img-fluid" src="../img/weather-cli-app-full.png">
