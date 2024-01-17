@@ -72,6 +72,14 @@
   ],
   "volunteer": [
     {
+      "organization": "Supporting Women in Information Technology and Computing in Hawaii (SWITCH)",
+      "website": "https://switch-uhm.github.io/",
+      "position": "Team Member",
+      "startDate": "2023-08-22",
+      "endDate": "Present",
+      "summary": "A STEM organization whose purpose is to support women and minorities, promote gender and racial equality, and foster professional growth for students in Information and Computer Sciences."
+    },
+    {
       "organization": "Grey Hats",
       "website": "https://uhmgreyhats.github.io/",
       "position": "Team Member",
@@ -85,7 +93,7 @@
       "title": "UH Manoa Dean's List",
       "date": "2022-Present",
       "awarder": "UH Manoa Office of the Registrar",
-      "summary": "Awarded to full-time undergraduate students who earned a semester GPA of 3.5 or higher."
+      "summary": "Awarded to full-time undergraduate students who earned a semester GPA of 3.5 or higher without any NC (no credit), W (withdrawn), I (incomplete), or F (failure) grades."
     }
   ],
   "references": [
