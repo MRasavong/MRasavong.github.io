@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/tapis-square.png
+image: img/tapis-square.png
 title: "Tapis Project"
 date: 2024
 published: true
