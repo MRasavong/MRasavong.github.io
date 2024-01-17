@@ -13,9 +13,7 @@ labels:
 summary: "A hosted, unified web-based API for securely managing computational research workloads across institutions."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/tapis-full.png" class="img-thumbnail" >
-</div>
+<img class="img-fluid" src="../img/tapis-full.jpg">
 
 As an undergraduate research assistant, I contribute to the Tapis Framework, which assists users in automating their research computing workflows and utilizes high-performance computing (HPC) clusters for deep-learning tasks. I also identify, communicate, and mitigate potential setbacks in collaboration with the University of Hawaii's Cyberinfrastructure team within the Information Technology Services department.
 
