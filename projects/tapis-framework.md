@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/tapis-square.png
-title: "Tapis Project"
+title: "Tapis Framework"
 date: 2024
 published: true
 labels:
