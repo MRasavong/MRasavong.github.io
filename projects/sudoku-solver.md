@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/sudoku.png
+image: img/sudoku.png
 title: "Recursive Sudoku Solver"
 date: 2023
 published: true
@@ -12,7 +12,7 @@ summary: "A recursive sudoku solver made in ICS 211."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/sudoku-results.png" class="img-thumbnail" >
+  <img width="200px" src="../img/sudoku-results.jpg" class="img-thumbnail" >
 </div>
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
