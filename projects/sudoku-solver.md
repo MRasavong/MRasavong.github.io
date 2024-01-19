@@ -19,41 +19,40 @@ This was an individual assignment where I had to demonstrate my understanding of
 
 Below is the code for the testSudoku function:
 ```
-	/**
-	 * Tries to solve a sudoku. If a solution is provided, also check against the solution. Print the results.
-	 * @param name the name of this sudoku
-	 * @param sudoku the sudoku to be solved
-	 * @param solution the given solution, or null
-	 */
-	private static void testSudoku(String name, int [] [] sudoku, int [] [] solution) {
-		System.out.println ("solving " + name + "\n" + Sudoku.toString (sudoku, true));
-		if (Sudoku.fillSudoku (sudoku)) {
-			if (isFilled(sudoku) && Sudoku.checkSudoku (sudoku, true)) {
-				System.out.println ("success!\n" + Sudoku.toString (sudoku, true));
-				if (solution != null) {
-					int [] [] diff = sameSudoku (sudoku, solution);
-					if (diff != null) {
-						System.out.println ("given solution:\n" +
-								Sudoku.toString (solution, true));
-						System.out.println ("difference between solutions:\n" +
-								Sudoku.toString (diff, true));
-					}
-				}
-			} 
-			else { // The supposed solution is not a complete or valid sudoku
-				if (! isFilled(sudoku)) {
-					System.out.println ("sudoku was not completely filled:\n" +
-							Sudoku.toString (sudoku, false));
-				}
-				if (! Sudoku.checkSudoku(sudoku, false)) {
-					System.out.println ("sudoku is not a valid solution:\n" +
-							Sudoku.toString (sudoku, false));
-				}
-			}
-		} 
-		else {
-			System.out.println ("unable to complete sudoku " + name + "\n" +
-					Sudoku.toString (sudoku, true));
-		}
-	}
+/**
+ * Tries to solve a sudoku. If a solution is provided, also check against the
+ * solution. Print the results.
+ * @param name the name of this sudoku
+ * @param sudoku the sudoku to be solved
+ * @param solution the given solution, or null
+ */
+private static void testSudoku(String name, int[][] sudoku, int[][] solution) {
+  System.out.println("solving " + name + "\n" + Sudoku.toString(sudoku, true));
+  if (Sudoku.fillSudoku(sudoku)) {
+    if (isFilled(sudoku) && Sudoku.checkSudoku(sudoku, true)) {
+      System.out.println("success!\n" + Sudoku.toString(sudoku, true));
+      if (solution != null) {
+        int[][] diff = sameSudoku(sudoku, solution);
+        if (diff != null) {
+          System.out.println(
+              "given solution:\n" + Sudoku.toString(solution, true));
+          System.out.println(
+              "difference between solutions:\n" + Sudoku.toString(diff, true));
+        }
+      }
+    } else { // The supposed solution is not a complete or valid sudoku
+      if (!isFilled(sudoku)) {
+        System.out.println("sudoku was not completely filled:\n"
+            + Sudoku.toString(sudoku, false));
+      }
+      if (!Sudoku.checkSudoku(sudoku, false)) {
+        System.out.println("sudoku is not a valid solution:\n"
+            + Sudoku.toString(sudoku, false));
+      }
+    }
+  } else {
+    System.out.println("unable to complete sudoku " + name + "\n"
+        + Sudoku.toString(sudoku, true));
+  }
+}
 ```
