@@ -14,11 +14,11 @@
     ]
   },
   "interests": [
-    { "name": "Full Stack Development" },
-    { "name": "Machine Learning" },
-    { "name": "Data Management" },
-    { "name": "Cloud Computing" },
-    { "name": "High Performance Computing" }
+    { "name": "Full Stack Development"},
+    { "name": "Machine Learning"},
+    { "name": "Data Management"},
+    { "name": "Cloud Computing"},
+    { "name": "High Performance Computing"}
   ],
   "skills": [
     {
