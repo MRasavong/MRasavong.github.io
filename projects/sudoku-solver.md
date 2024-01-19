@@ -26,7 +26,7 @@ I learned and used the following recursive strategy to find a solution to a sudo
   If a solution is found for at least one legal value, set the Sudoku to reflect the solution, and return that a solution was found.\
   If no solution is found for any legal value, reset the cell to the value it had when the method was called, and report that the Sudoku does not have a solution.
 
-Every time the code recursively attempts to find a solution, it will fill cells in the Sudoku grid. If the attempt is not successful, before returning, the code must restore the Sudoku grid to the values it had before the call.
+Every time the code recursively attempts to find a solution, it will fill cells in the Sudoku grid. If the attempt is not successful, before returning, the code restores the Sudoku grid to the values it had before the call.
 
 Below is an example of the code for the testSudoku function:
 ```
