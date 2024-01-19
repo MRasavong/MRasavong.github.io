@@ -21,4 +21,6 @@ Unified API for scheduling jobs to run on a variety of remote resources (superco
 Automating the data management lifecycle, including staging data inputs to the execution target and archiving job outputs to storage resources.\
 Leveraging containerized application assets to enable portability and reduce overall time by utilizing data locality.
 
+Currently, I use Jupyter Lab 
+
 You can learn more at the [Tapis Project official site](https://tapis-project.org/).
