@@ -11,8 +11,7 @@ labels:
   - HTML
   - CSS
   - GitHub
-summary: "A full-stack command-line interface application that uses Node.js to display real-time weather forecasts for
-over 200,000 cities."
+summary: "A full-stack command-line interface application that displays real-time weather forecasts for over 200,000 cities."
 ---
 <img class="img-fluid" src="../img/weather-cli-app-full.png">
 
