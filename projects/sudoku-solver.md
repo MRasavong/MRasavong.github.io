@@ -17,7 +17,7 @@ In ICS 211, I was given a homework assignment where I had to code a recursive al
 
 This was an individual assignment where I had to demonstrate my understanding of recursion from the lectures. 
 
-I learned and used the following recursive strategy to find a solution to a sudoku problem:
+I learned and used the following **recursive strategy** to find a solution to a sudoku problem:
 
   1. If all cells are filled, see if the Sudoku is valid. If it is, a solution has been found. If not, the Sudoku is not a solution.
   2. If at least one cell is not filled, see what values are legal in the cell:\
