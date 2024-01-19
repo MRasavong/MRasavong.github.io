@@ -15,11 +15,11 @@ summary: "A full-stack command-line interface application that displays real-tim
 ---
 <img class="img-fluid" src="../img/weather-cli-app-full.png">
 
-Using the OpenWeatherMap API, I implemented temperatures in Celsius and Fahrenheit, cloud coverage, visibility, humidity, atmospheric pressure, precipitation, and wind.
+During the summer, I decided to take advantage of the break I was given to improve my programming skills. Previously, I had only taken introductory ICS courses in Java, where code would simply take place within an IDE and be printed to the console. While these courses taught me valuable computer science concepts such as binary trees and sorting algorithms, I was curious about how to develop an application with an interactable user interface and real-time outputs. Thus, in July, I created a weather application in JavaScript and Node.js that runs directly from the command line. Using the OpenWeatherMap API, I implemented temperatures in Celsius and Fahrenheit, cloud coverage, visibility, humidity, atmospheric pressure, precipitation, and wind.
 
-This was a personal project meant to help me learn full-stack development.
+This was a personal project meant to help me learn full-stack development. It was the first time I was coding outside of an academic environment and I was thrilled to finally see my code out in public. Not having to worry about grading was a plus.
 
-Here is some code that illustrates how I used the data given by the OpenWeatherMap API to set up my output:
+Below is an example of the code I used to retrieve data from the OpenWeatherMap API and set up my output:
 
 ```
 let place = `${weather.name}, ${weather.sys.country}`,
@@ -37,5 +37,7 @@ let weatherTemp = `${weather.main.temp}`,
     weatherFahrenheit;
 weatherFahrenheit = ((weatherTemp * 9 / 5) + 32);
 ```
+
+To create the application, I first had to learn about web development. I started by creating an account with the Odin Project and completed several lessons, with the most valuable being how to commit repositories to GitHub. I also took the time to run a virtual machine on my laptop and download Linux, which has a far more functional base terminal (bash) than Windows (cmd). While Windows is still my main operating system, I have dual-booted Manjaro to my laptop since then and occasionally use its terminal to code. I look forward to learning more about front-end programming in ICS 314.
 
 You can learn more at the [GitHub repository](https://github.com/MRasavong/weather-cli-app).
