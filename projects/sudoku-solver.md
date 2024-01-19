@@ -20,7 +20,7 @@ This was an individual assignment where I had to demonstrate my understanding of
 I learned and used the following recursive strategy to find a solution to a sudoku problem:
 
   1. If all cells are filled, see if the Sudoku is valid. If it is, a solution has been found. If not, the Sudoku is not a solution.
-  2. If at least one cell is not filled, see what values are legal in the cell:
+  2. If at least one cell is not filled, see what values are legal in the cell:\
   If no values are legal, then the Sudoku is not a solution.\
   If one or more values are legal, place each legal value in the cell in turn, one at a time. For each, recursively attempt to find a solution that fills the remaining empty cells.\
   If a solution is found for at least one legal value, set the Sudoku to reflect the solution, and return that a solution was found.\
