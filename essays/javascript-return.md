@@ -8,6 +8,7 @@ published: true
 labels:
   - JavaScript
 ---
+<img class="img-fluid" src="../img/harold-computer.jpg">
 
 ## Again?
 
