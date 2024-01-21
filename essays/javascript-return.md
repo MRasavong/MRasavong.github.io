@@ -9,7 +9,7 @@ labels:
   - JavaScript
 ---
 <p align="center">
-  <img src="../img/es6.png" />
+  <img src="../img/es5-and-es6.png" />
 </p>
 
 ## Again?
