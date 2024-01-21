@@ -8,7 +8,9 @@ published: true
 labels:
   - JavaScript
 ---
-<img class="img-fluid" src="../img/harold-computer.jpg">
+<p align="center">
+  <img src="../img/harold-computer.jpg" />
+</p>
 
 ## Again?
 
