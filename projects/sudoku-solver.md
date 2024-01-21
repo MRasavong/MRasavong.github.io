@@ -11,7 +11,7 @@ labels:
 summary: "A recursive Sudoku solver made in ICS 211."
 ---
 <p align="center">
-  <img width="560" height="400" src="../img/sudoku-results.jpg">
+  <img src="../img/sudoku-results.jpg" />
 </p>
 
 In ICS 211, I was given a homework assignment where I had to code a recursive algorithm in Java to solve Sudoku exercises. To test my algorithm, I used three different problems—the third being the AI Escargot, which is known to be one of the most difficult Sudoku puzzles in the world. In my code, I utilized recursion to perform an exhaustive search with backtracking to identify the correct cell placements on the Sudoku. Several functions included isFilled to check whether a Sudoku has been filled or not and testSudoku which tests a solved Sudoku. The final result is then printed to the console as depicted in the image above.
