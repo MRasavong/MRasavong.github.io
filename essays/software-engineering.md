@@ -8,7 +8,9 @@ published: true
 labels:
   - Software Engineering
 ---
-<img class="img-fluid" src="../img/philosopher-computer.jpg">
+<p align="center">
+  <img src="../img/philosopher-computer.jpg" />
+</p>
 
 ## The Beginning of an Existential Crisis
 
