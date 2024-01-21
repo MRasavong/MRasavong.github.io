@@ -9,7 +9,7 @@ labels:
   - JavaScript
 ---
 <p align="center">
-  <img width="560" height="400" src="../img/harold-computer.jpg">
+  <img width="460" height="300" src="../img/harold-computer.jpg">
 </p>
 
 ## Again?
