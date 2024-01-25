@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "How to Avoid Overflowing StackOverflow With "Stupid" Questions"
+title: "How to Avoid Overflowing StackOverflow With Stupid Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-24
 published: true
