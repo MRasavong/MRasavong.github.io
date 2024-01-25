@@ -9,7 +9,7 @@ labels:
   - StackOverflow
 ---
 <p align="center">
-  <img src="../img/stackoverflow.png" />
+  <img src="../img/what-is-stack-overflow.png" />
 </p>
 
 ## The Numerous Benefits of Not Getting Laughed off of StackOverflow
