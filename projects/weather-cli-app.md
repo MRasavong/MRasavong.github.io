@@ -40,6 +40,6 @@ let weatherTemp = `${weather.main.temp}`,
 weatherFahrenheit = ((weatherTemp * 9 / 5) + 32);
 ```
 
-To create the application, I first had to learn about web development. I started by creating an account with the Odin Project and completed several lessons, with the most valuable being how to commit repositories to GitHub. I also took the time to run a virtual machine on my laptop and download Linux, which has a far more functional base terminal (bash) than Windows (cmd). While Windows is still my main operating system, I have dual-booted Manjaro to my laptop since then and occasionally use its terminal to code. I look forward to learning more about front-end programming in ICS 314.
+To create the application, I first had to learn about web development. I started by creating an account with the Odin Project and completed several lessons, the most valuable being how to commit repositories to GitHub. I also took the time to run a virtual machine on my laptop and download Linux, which has a far more functional base terminal (bash) than Windows (cmd). While Windows is still my main operating system, I have dual-booted Manjaro to my laptop since then and occasionally use its terminal to code. I look forward to learning more about front-end programming in ICS 314.
 
 You can learn more at the [GitHub repository](https://github.com/MRasavong/weather-cli-app).
