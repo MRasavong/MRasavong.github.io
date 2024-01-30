@@ -52,7 +52,7 @@
       "website": "https://tapis-project.org/",
       "startDate": "2024-01-08",
       "endDate": "Present",
-      "summary": "Contribute to the Tapis Framework, which provides a hosted, unified web-based API for securely managing computational research workloads across the University of Hawaii campuses.",
+      "summary": "Contribute to the Tapis Framework, which provides a hosted, unified web-based REST API for securely managing computational research workloads across the University of Hawaii campuses.",
       "highlights": [
         "Identify, communicate, and mitigate potential setbacks in collaboration with campus cyberinfrastructure and network operators as part of the cyberinfrastructure software development team",
         "Utilize the high-performance computing cluster Koa for deep-learning tasks"
