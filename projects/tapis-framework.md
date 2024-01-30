@@ -10,7 +10,7 @@ labels:
   - Jupyter
   - Docker
   - Networking
-summary: "A hosted, unified web-based REST API for securely managing computational research workloads across institutions."
+summary: "A hosted, unified web-based API for securely managing computational research workloads across institutions."
 ---
 <p align="center">
   <img src="../img/tapis-full.jpg" />
