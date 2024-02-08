@@ -11,7 +11,7 @@ labels:
   - JavaScript
 ---
 <p align="center">
-  <img src="../img/green-checkmark.png" />
+  <img src="../img/eslint.png" />
 </p>
 
 ## Holding Myself to a Higher Standard
