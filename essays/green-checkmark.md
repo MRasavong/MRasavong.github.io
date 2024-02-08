@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Instant Gratification I Get From Receiving a Green Checkmark"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-07
+date: 2024-02-08
 published: true
 labels:
   - ESLint
