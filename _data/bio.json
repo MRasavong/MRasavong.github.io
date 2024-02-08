@@ -52,10 +52,11 @@
       "website": "https://tapis-project.org/",
       "startDate": "2024-01-08",
       "endDate": "Present",
-      "summary": "Contribute to the Tapis Framework, which provides a hosted, unified web-based API for securely managing computational research workloads across the University of Hawaii campuses.",
+      "summary": "Contribute to the development and maintenance of the Hawai‘i Climate Data Portal (HCDP) as a member of the cyberinfrastructure software development team.",
       "highlights": [
-        "Identify, communicate, and mitigate potential setbacks in collaboration with campus cyberinfrastructure and network operators as part of the cyberinfrastructure software development team",
-        "Utilize the high-performance computing cluster Koa for deep-learning tasks"
+        "Implement the Hawai‘i Mesonet, a user-friendly live data access tool integrated into the HCDP platform",
+        "Visualize data for current weather conditions and elevation levels from an extensive network of approximately one hundred telemetered stations",
+        "Identify, communicate, and mitigate potential setbacks in collaboration with campus cyberinfrastructure and network operators"
       ]
     },
     {
@@ -79,7 +80,7 @@
       "summary": "Handled customer service including sales, transactions, and inventory management.",
       "highlights": [
         "Worked collaboratively with a team of other sales associates to exceed monthly, quarterly, and yearly sales goals",
-        "Maintained extensive knowledge about the latest products and upcoming releases to effectively assist customers"
+        "Maintained extensive knowledge about the latest products and upcoming releases to assist customers effectively"
       ]
     }
   ],
