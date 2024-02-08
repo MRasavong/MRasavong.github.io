@@ -11,7 +11,7 @@ labels:
   - JavaScript
 ---
 <p align="center">
-  <img src="../img/stack-overflow-question.png" />
+  <img src="../img/green-checkmark.png" />
 </p>
 
 ## Holding Myself to a Higher Standard
