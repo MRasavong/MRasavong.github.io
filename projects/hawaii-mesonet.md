@@ -28,4 +28,4 @@ One of my responsibilities includes using Python and Jupyter Lab to request comp
 
 Being part of the project has enabled me to gain a deep understanding of how cyberinfrastructure works and the importance of HPC. With such large amounts of data being transferred at once across multiple campuses, computations must be performed at high speeds. I also gained an in-depth understanding of the command line—something that I have yet to cover in my ICS courses. One of my favorite lessons was on transmission control protocol, which transports protocol to ensure reliable transmission of packets. I hope to learn more over the semester as I venture into the world of networking.
 
-You can learn more at the [Hawai‘i Mesonet official site]([https://tapis-project.org/](https://www.hawaii.edu/climate-data-portal/hawaii-mesonet/)https://www.hawaii.edu/climate-data-portal/hawaii-mesonet/).
+You can learn more at the [Hawai‘i Mesonet official site]([https://www.hawaii.edu/climate-data-portal/hawaii-mesonet]).
