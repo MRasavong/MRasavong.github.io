@@ -11,7 +11,7 @@ labels:
   - Node.js
   - Docker
   - MongoDB
-summary: "A hosted, unified web-based API for securely managing computational research workloads across institutions."
+summary: "A statewide advanced weather and climate monitoring network comprising approximately one hundred stations."
 ---
 <p align="center">
   <img src="../img/mesonet-full.png" />
@@ -20,7 +20,6 @@ summary: "A hosted, unified web-based API for securely managing computational re
 As an undergraduate research assistant and member of the cyberinfrastructure software development team at the University of Hawaii, I contribute to the Hawai‘i Climate Data Portal (HCDP), which provides streamlined access to climate data throughout the state. Currently, I am working on the Hawai‘i Mesonet, a user-friendly live data access tool integrated into the HCDP platform.
 
 **The various features include:**
-* Statewide advanced weather and climate monitoring network comprising approximately one hundred stations
 * Utilizing sensor technology for real-time data collection and transmission, enabling continuous monitoring of weather conditions across Hawaii
 * Rendering extreme spatial diversity of climate data, including temperatures, rainfall, cloud coverage, solar radiation, wind, and humidity
 
