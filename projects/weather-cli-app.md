@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/weather-cli-app-square.png
+image: img/weather-forecast-square.png
 title: "Weather Forecast CLI Application"
 date: 2023
 published: true
@@ -14,7 +14,7 @@ labels:
 summary: "A full-stack command-line interface application that displays real-time weather forecasts for over 200,000 cities."
 ---
 <p align="center">
-  <img src="../img/weather-cli-app-full.png" />
+  <img src="../img/weather-forecast-full.png" />
 </p>
 
 During the summer, I decided to take advantage of the break I was given to improve my programming skills. Previously, I had only taken introductory ICS courses in Java, where code would simply take place within an IDE and be printed to the console. While these courses taught me valuable computer science concepts such as binary trees and sorting algorithms, I was curious about how to develop an application with an interactable user interface and real-time outputs. Thus, in July, I created a weather application in JavaScript and Node.js that runs directly from the command line. Using the OpenWeatherMap API, I implemented temperatures in Celsius and Fahrenheit, cloud coverage, visibility, humidity, atmospheric pressure, precipitation, and wind.
