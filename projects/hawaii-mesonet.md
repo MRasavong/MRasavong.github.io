@@ -17,7 +17,7 @@ summary: "A statewide advanced weather and climate monitoring network comprising
   <img src="../img/mesonet-full.png" />
 </p>
 
-As an undergraduate research assistant and member of the cyberinfrastructure software development team at the University of Hawaii (UH), I contribute to the Hawai‘i Climate Data Portal (HCDP), which provides streamlined access to climate data throughout the state. Currently, I am working on the Hawai‘i Mesonet, a user-friendly live data access tool integrated into the HCDP platform.
+As an undergraduate research assistant and member of the cyberinfrastructure software development team at the University of Hawaii, I contribute to the Hawai‘i Climate Data Portal (HCDP), which provides streamlined access to climate data throughout the state. Currently, I am working on the Hawai‘i Mesonet, a user-friendly live data access tool integrated into the HCDP platform.
 
 **The various features include:**
 * Utilizing sensor technology for real-time data collection and transmission, enabling continuous monitoring of weather conditions
