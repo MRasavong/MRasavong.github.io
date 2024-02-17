@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mesonet-square.png
+image: img/mesonet-map-square.png
 title: "Hawai‘i Mesonet"
 date: 2024
 published: true
@@ -14,7 +14,7 @@ labels:
 summary: "A statewide advanced weather and climate monitoring network comprising approximately 100 stations."
 ---
 <p align="center">
-  <img src="../img/mesonet-full.png" />
+  <img src="../img/mesonet-map-full.png" />
 </p>
 
 As an undergraduate research assistant and member of the cyberinfrastructure software development team at the University of Hawaii, I contribute to the Hawai‘i Climate Data Portal (HCDP), which provides streamlined access to climate data throughout the state. Currently, I am working on the Hawai‘i Mesonet, a user-friendly live data access tool integrated into the HCDP platform.
