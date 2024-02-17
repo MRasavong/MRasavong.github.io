@@ -1,15 +1,16 @@
 ---
 layout: project
 type: project
-image: img/tapis-square.png
-title: "Tapis Framework"
+image: img/mesonet-square.png
+title: "Hawai‘i Mesonet"
 date: 2024
 published: true
 labels:
+  - JavaScript
   - Python
-  - Jupyter
+  - Node.js
   - Docker
-  - Networking
+  - MongoDB
 summary: "A hosted, unified web-based API for securely managing computational research workloads across institutions."
 ---
 <p align="center">
