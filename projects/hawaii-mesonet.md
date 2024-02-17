@@ -11,7 +11,7 @@ labels:
   - Node.js
   - Docker
   - MongoDB
-summary: "A statewide advanced weather and climate monitoring network comprising approximately one hundred stations."
+summary: "A statewide advanced weather and climate monitoring network comprising approximately 100 stations."
 ---
 <p align="center">
   <img src="../img/mesonet-full.png" />
