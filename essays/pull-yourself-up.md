@@ -29,9 +29,9 @@ labels:
 <p align="center">
   <img width="1000" src="../img/comparison.png" /><br>
   <div style="text-align: center;">
-    <b>Left: Web Page Built with Raw HTML and CSS</b>
+    <b>Left: Raw HTML and CSS</b>
   </div>
   <div style="text-align: center;">
-    <b>Right: Web Page Built with Bootstrap</b>
+    <b>Right: Bootstrap</b>
   </div>
 </p>
