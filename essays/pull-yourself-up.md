@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Pull Yourself up by Your Bootstraps (Through Frameworks)"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-20
+date: 2024-02-21
 published: false
 labels:
   - Bootstrap
