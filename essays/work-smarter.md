@@ -17,7 +17,7 @@ labels:
 
 ## The Limitations of Raw HTML and CSS
 
-
+  
 
 ## Work Smarter, Not Harder
 
