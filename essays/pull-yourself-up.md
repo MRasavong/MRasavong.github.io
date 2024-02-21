@@ -12,7 +12,7 @@ labels:
   - Web Development
 ---
 
-<img style="margin-right: 1.5rem" align="left" height="auto" width="300" src="../img/bootstrap.jpg" />
+<img style="margin-right: 1.5rem" align="left" height="auto" width="200" src="../img/bootstrap.jpg" />
 
 ## The Limitations of Raw HTML and CSS
 
