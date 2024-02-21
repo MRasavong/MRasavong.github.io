@@ -28,8 +28,6 @@ labels:
 
 <p align="center">
   <img src="../img/website-comparison.png" />
-</p>
-<p align=center>
   <b>Left: Raw HTML and CSS<br>
     Right: Bootstrap</b>
 </p>
