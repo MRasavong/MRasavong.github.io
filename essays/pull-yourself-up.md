@@ -14,7 +14,7 @@ labels:
 
 ## The Limitations of Raw HTML and CSS
 
-img style="margin-right: 1.5rem" align="left" height="auto" width="300" src="../img/bootstrap.jpg" />
+<img style="margin-right: 1.5rem" align="left" height="auto" width="300" src="../img/bootstrap.jpg" />
   Raw HTML and CSS serve as the foundational building blocks of web development, enabling developers to easily create websites with structure and style. However, they come with inherent limitations, particularly regarding responsiveness and design complexity. Achieving responsiveness across various devices and screen sizes often requires extensive manual coding with media queries when using HTML and CSS, leading to bloated code and increased time spent developing the site. Additionally, it is also difficult to design modern and visually appealing user interfaces, as you have to code complex UI components from scratch and ensure consistency throughout the website, which can result in code duplication and maintenance issues over time. Despite these challenges, raw HTML and CSS remain essential skills for developers to master as they provide a solid understanding of web fundamentals.
 
 ## Work Smarter, Not Harder
