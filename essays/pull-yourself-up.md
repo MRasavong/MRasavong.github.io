@@ -26,12 +26,16 @@ labels:
 
   To illustrate the benefits of using a UI framework like Bootstrap 5, let's consider a side-by-side comparison of two web pages I created recently, one built with raw HTML and CSS and the other with Bootstrap. For the raw HTML and CSS page, creating even simple layouts and achieving responsiveness required me to write custom styles and media queries. On the other hand, the Bootstrap 5 version of the web page utilizes pre-built components and utilities to achieve the same layout and styling with significantly less code. The responsive design seamlessly adapts to different screen sizes, providing a consistent user experience across devices. Overall, while there may be a learning curve associated with mastering a UI framework, the efficiency, consistency, and maintainability it offers make it a valuable investment for web developers.<br>
 
-<p align="center">
-  <img width="1000" src="../img/comparison.png" /><br>
-  <div style="text-align: center; display: inline-block;">
-    <b>Left: Raw HTML and CSS</b>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="width: 1000px; text-align: center;">
+    <img width="1000" src="../img/comparison.png" />
   </div>
-  <div style="text-align: center; display: inline-block;">
-    <b>Right: Bootstrap</b>
+  <div style="display: flex; justify-content: space-between; width: 1000px;">
+    <div style="text-align: center; width: 50%;">
+      <b>Left: Raw HTML and CSS</b>
+    </div>
+    <div style="text-align: center; width: 50%;">
+      <b>Right: Bootstrap</b>
+    </div>
   </div>
-</p>
+</div>
