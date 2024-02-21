@@ -11,7 +11,7 @@ labels:
   - CSS
   - Web Development
 ---
-<p align="center">
+<p align="right">
   <img src="../img/bootstrap.jpg" alt="bootstrap-versus-html" width="400"/>
 </p>
 
