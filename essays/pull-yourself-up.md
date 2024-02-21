@@ -28,10 +28,10 @@ labels:
 
 <p align="center">
   <img width="1000" src="../img/comparison.png" /><br>
-  <div style="text-align: center;">
+  <div style="float: left; text-align: center;">
     <b>Left: Raw HTML and CSS</b>
   </div>
-  <div style="text-align: center;">
+  <div style="float: right; text-align: center;">
     <b>Right: Bootstrap</b>
   </div>
 </p>
