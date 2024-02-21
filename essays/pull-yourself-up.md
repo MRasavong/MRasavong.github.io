@@ -11,9 +11,7 @@ labels:
   - CSS
   - Web Development
 ---
-<p align="right">
-  <img src="../img/bootstrap.jpg" alt="bootstrap-versus-html" width="400"/>
-</p>
+<img align="left" src="../img/bootstrap.jpg" alt="bootstrap-versus-html" width="400">
 
 ## The Limitations of Raw HTML and CSS
 
