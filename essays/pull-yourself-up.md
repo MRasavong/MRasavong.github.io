@@ -12,7 +12,7 @@ labels:
   - Web Development
 ---
 <p align="center">
-  <img src="../img/bootstrap.jpg" alt="bootstrap-versus-html" width="200"/>
+  <img src="../img/bootstrap.jpg" alt="bootstrap-versus-html" width="400"/>
 </p>
 
 ## The Limitations of Raw HTML and CSS
