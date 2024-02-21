@@ -32,10 +32,10 @@ labels:
   </div>
   <div style="display: flex; justify-content: space-between; width: 1000px;">
     <div style="text-align: center; width: 50%;">
-      <b>Left: Raw HTML and CSS</b>
+      <b>Raw HTML and CSS</b>
     </div>
     <div style="text-align: center; width: 50%;">
-      <b>Right: Bootstrap</b>
+      <b>Bootstrap</b>
     </div>
   </div>
 </div>
