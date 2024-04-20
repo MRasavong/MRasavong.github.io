@@ -9,7 +9,7 @@ labels:
   - Web Development
 ---
 
-<img style="margin-right: 1.5rem" align="left" height="auto" width="200" src="../img/whiteboard.jpg" />
+<img style="margin-right: 1.5rem" align="left" height="auto" width="500" src="../img/whiteboard.jpg" />
 
 ## Reduce, Reuse, Recycle
 
