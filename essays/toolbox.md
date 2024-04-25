@@ -10,16 +10,10 @@ labels:
   - Artificial Intelligence
 ---
 
-<img style="margin-right: 1.5rem" align="left" height="auto" width="500" src="../img/whiteboard.jpg" />
+<img style="margin-right: 1.5rem" align="left" height="auto" width="500" src="../img/robots.jpg" />
 
-## Allevitating Potential Bugs and My Headaches
+## Nitpicking What I Used Artificial Intelligence For
 
-  I found myself slightly overwhelmed while working on my final project for ICS 314, a web application dedicated to posting lost and found items for the University of Hawaii Manoa campus. Building a web application with a database can easily become a convoluted mess where you have to go back and forth between the front-end and back-end of the code, frantically checking whether each change in data is being registered. It was then that I noticed how structured the folders inside the template were. My eyes were immediately drawn to the imports folder which had been divided into three more folders: components, layouts, and pages. The web application had been seamlessly deconstructed, all for the developer's convenience.
-
-## Building From the Ground Up
-
-  I didn't realize it back then, but I had used a design pattern in my application. Specifically, the builder design pattern: constructing a complex object step-by-step while taking into account variations in the type of product being built. The pattern distinguishes the object's construction from its representation, thereby allowing an object to have multiple representations. In my case, I had to figure out how to implement the Edit Item page in such a way that the page would change depending on what item was being edited, with all the associated fields of the item being displayed. Using the builder design pattern, I was able to successfully implement the Edit Item page so that the UI would dynamically shift with each item. It also came in handy when we were configuring the navbar so that the admin and departmental accounts would see different pages based on their account privileges. 
-
-## Being Flexible When Plans Change (Oh, the Horror!)
-
-  Design patterns are, in essence, customizing your code to solve a problem in a particular context. Whether it be providing a global variable while using a language that does not natively support global variables, or dealing with the specific behaviors of various objects, design patterns can be an absolute life-saver for developers. Towns change, people change, and code is no exception. By using design patterns, developers can ensure that their software systems are maintainable and flexible. Feel free to add that new collection to your database or that interactive map you've always been wanting to implement—design patterns can handle it.
+  Ever since the rise of artificial intelligence, its usage has been a heavily debated topic and source of controversy—especially in the education domain. In this aspect, software engineering is in a unique position as both the founder of artificial intelligence (as artificial intelligence is software) and a field endangered by artificial intelligence. In ICS 314, I primarily used ChatGPT to help solve the timed in-class practice WODs (workouts of the day) and actual WODs, as it would spit out relevant lines of code quickly and efficiently. However, at home, I relied solely on learning resources such as documentation or Professor Johnson's videos to solve the experience WODs, as I knew exactly what I was being asked to code and was given ample to prepare. I did not use other artificial intelligence tools such as Bard or Co-Pilot, with the former being because I had never heard of it before, and the latter because I wanted to fully memorize the code syntax.
+  
+  Essays were where I drew the line. I have always enjoyed creative writing, and the ICS 314 essays were no exception. In my humble opinion, artificial intelligence cannot replicate the wit and altogether humane charm of personal writing. Grammar tools such as Grammarly, at least, in my free version (I abhor subscription-based services), only correct basic spelling and punctuation errors in my writing which I appreciate. 
