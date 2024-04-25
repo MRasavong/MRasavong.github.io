@@ -10,11 +10,15 @@ labels:
   - Artificial Intelligence
 ---
 
-<img style="margin-right: 1.5rem" align="left" height="auto" width="500" src="../img/robots.jpg" />
+<img style="margin-right: 1.5rem" align="left" height="auto" width="286" src="../img/thoreau.jpg" />
 
 ## "Be Not Simply Good—Be Good for Something"
 
-  Ever since the rise of artificial intelligence, its usage has been a heavily debated topic and source of controversy—especially in the education domain. In this aspect, software engineering is in a unique position as both the founder of artificial intelligence (as artificial intelligence is software) and a field endangered by artificial intelligence. In ICS 314, I primarily used ChatGPT to help solve the timed in-class practice WODs (workouts of the day) and actual WODs, as it would spit out relevant lines of code quickly and efficiently. However, at home, I relied solely on learning resources such as documentation or Professor Johnson's videos to solve the experience WODs, as I knew exactly what I was being asked to code and was given ample to prepare. I did not use other artificial intelligence tools such as Bard or Co-Pilot, with the former being because I had never heard of it before, and the latter because I wanted to fully memorize the code syntax.
+  Ever since the rise of artificial intelligence, its usage has been a heavily debated topic and source of controversy—especially in the educational domain. In this aspect, software engineering is in a unique position as both the founder of artificial intelligence (as artificial intelligence is software) and a field endangered by artificial intelligence.
+  
+### The List
+
+  In ICS 314, I primarily used ChatGPT to help solve the timed in-class practice WODs (workouts of the day) and actual WODs, as it would spit out relevant lines of code quickly and efficiently. However, at home, I relied solely on learning resources such as documentation or Professor Johnson's videos to solve the experience WODs, as I knew exactly what I was being asked to code and was given ample to prepare. I did not use other artificial intelligence tools such as Bard or Co-Pilot, with the former being because I had never heard of it before, and the latter because I wanted to fully memorize the code syntax.
   
   Essays were where I drew the line at using ChatGPT. I have always enjoyed creative writing, and the ICS 314 essays were no exception. In my humble opinion, artificial intelligence cannot replicate the wit and altogether humane charm of personal writing. Grammar tools such as Grammarly, at least, in my free version (I despise subscription-based services), only correct basic spelling and punctuation errors in my writing.
 
