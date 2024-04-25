@@ -31,4 +31,4 @@ I didn't use other artificial intelligence tools such as Bard or Co-Pilot for co
 * **Quality assurance** was where I used ChatGPT the most since it was highly convenient to have files with hundreds of lines of code be automatically fixed for me
 * I used ChatGPT to explain **terminal errors** since the learning material given to me did not cover my specific issues
 
-  I sincerely cannot tell if AI has hindered or helped my learning experience.
+  I sincerely cannot tell if AI has hindered or helped my overall learning experience.
