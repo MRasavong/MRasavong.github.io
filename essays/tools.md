@@ -21,12 +21,12 @@ I didn't use other artificial intelligence tools such as Bard or Co-Pilot for co
 ### II. Personal Experience with AI:
 I have or haven't used AI in class this semester in the following areas:
 
-1. At home, I didn't use AI to solve the **experience WODs** and relied solely on learning resources such as documentation or Professor Johnson's videos, as I knew exactly what I was being asked to code and was given ample to prepare.
-2. I primarily used ChatGPT to help solve the timed in-class **practice WODs** (workouts of the day) relevant lines of code quickly and efficiently.
+1. I didn't use AI to solve the **experience WODs** and relied solely on learning resources such as documentation or Professor Johnson's videos, as I knew exactly what I was being asked to code and was given ample to prepare.
+2. I used ChatGPT to help solve the timed in-class **practice WODs** (workouts of the day) relevant lines of code quickly and efficiently.
 3. I used ChatGPT to help solve the timed **in-class WODs** for the same reasons above.
-4. I also drew the line at using ChatGPT to write **essays** as I have always enjoyed creative writing, with the ICS 314 essays being no exception. In my opinion, artificial intelligence cannot replicate the wit and altogether humane charm of personal writing. Grammar tools such as Grammarly, at least, in my free version (I despise subscription-based services), only correct basic spelling and punctuation errors in my writing.
+4. I didn't use ChatGPT to write **essays** as I have always enjoyed creative writing, with the ICS 314 essays being no exception. In my opinion, artificial intelligence cannot replicate the wit and altogether humane charm of personal writing. Grammar tools such as Grammarly, at least, in my free version (I despise subscription-based services), only correct basic spelling and punctuation errors in my writing.
 5. The **final project** incorporated new features that didn't exist in the homework assignments, so I relied on ChatGPT to implement them into the rest of my code.
-6. When it came to **learning a concept or tutorial**, I relied primarily on the material given to me by the instructors since ChatGPT is prone to numerous errors.
+6. I didn't use AI to **learn a concept or tutorial** as I relied primarily on the material given to me by the instructors.
 7. I didn't need to rely on AI to **answer a question in class or on Discord** since it was all content we had gone over before.
 8. I didn't need to use AI to ask or answer **"smart questions"** simply because I rarely looked at that Discord channel.
 9. I didn't use AI for **coding examples** such as "give an example of using Underscore .pluck” which are short and sweet. Hence, if I was stuck, I only needed to Google it.
