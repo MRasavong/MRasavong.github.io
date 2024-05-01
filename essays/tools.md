@@ -9,8 +9,10 @@ labels:
   - Software Engineering
   - Artificial Intelligence
 ---
-
-<img style="margin-right: 1.5rem" align="left" height="auto" width="286" src="../img/thoreau.jpg" />
+<p>
+  <img style="margin-right: 1.5rem" align="left" height="auto" width="286" src="../img/thoreau.jpg" />
+  <em>"Men have become the tools of their tools." - Henry David Thoreau</em>
+</p>
 
 ### I. Introduction
 
@@ -34,7 +36,7 @@ I have or haven't used AI in class this semester in the following areas:
 11. I didn't use AI to **write code** for the same reasons above.
 12. I didn't use AI to **document code** because I had my code to paste onto the home page.
 13. **Quality assurance** was where I used ChatGPT the most since it was highly convenient to have files with hundreds of lines of code automatically fixed for me.
-14. I used ChatGPT to explain **terminal errors** since the learning material given to me didn't cover my specific issues.
+14. I didn't use ChatGPT for any other purposes.
 
 ### III. Impact on Learning and Understanding:
 
