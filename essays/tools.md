@@ -11,7 +11,7 @@ labels:
 ---
 <p>
   <img style="margin-right: 1.5rem" align="left" height="auto" width="286" src="../img/thoreau.jpg" />
-  <em>"Men have become the tools of their tools."</em> - Henry David Thoreau
+  <em>"Men have become the tools of their tools."</em> - Henry David Thoreau.
 </p>
 
 ### I. Introduction
@@ -65,4 +65,4 @@ I have or haven't used AI in class this semester in the following areas:
 
 ### VIII. Conclusion:
 
-  While AI should remain an *option* for students who wish to use it, as the purpose of the course is to provide students with an accurate overview of the state of the software engineering industry, students should also be cautioned about depending on AI too much. 
+  While AI should remain an *option* for students who wish to use it, as the purpose of the course is to provide students with an accurate overview of the state of the software engineering industry, students should also be cautioned about depending on AI too much. While integrating modern AI tools such as ChatGPT into software engineering education can provide valuable insights into industry practices and trends, it's crucial to maintain a balance between harnessing AI's capabilities and cultivating coding skills among students. While AI can expedite certain tasks and enhance overall productivity, overreliance on it may hinder the development of critical thinking and problem-solving skills. As the field continues to evolve, educators should adapt their approaches to ensure that students are equipped with the technical skills and the discernment necessary to navigate an AI-driven landscape effectively. By embracing AI as a supplementary tool rather than a crutch, students can harness its potential while preserving the integrity and ingenuity of the software engineering profession.
