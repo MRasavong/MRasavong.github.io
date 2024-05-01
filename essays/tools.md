@@ -45,7 +45,7 @@ I have or haven't used AI in class this semester in the following areas:
 
 ### III. Impact on Learning and Understanding:
 
-  While ChatGPT has helped to streamline the learning process by quickly alerting me on errors in my code and what I can do to solve them, I can't help but feel like it has also negatively impacted my problem-solving skills in particular since ChatGPT can quickly resolve basic (syntax, logic) errors. Of course, anything beyond that was up in the air. I'm sure most people who have used ChatGPT can testify to its volatility in fixing advanced issues. My overall comprehension and coding skills have not been hindered greatly since I still learned from the resources given to me, including watching all of Professor Johnson's videos, reading documentation, and reviewing the modules. Overall, it has been a mixed experience.
+  While ChatGPT has helped to somewhat streamline the learning process by quickly alerting me on errors in my code and what I can do to solve them, I can't help but feel like it has also negatively impacted my problem-solving skills in particular since ChatGPT can quickly resolve basic (syntax, logic) errors. Of course, anything beyond that was up in the air. I'm sure most people who have used ChatGPT can testify to its volatility in fixing advanced issues. My overall comprehension and coding skills have not been hindered greatly since I still learned from the resources given to me, including watching all of Professor Johnson's videos, reading documentation, and reviewing the modules. Overall, it has been a mixed experience.
 
 ### IV. Practical Applications:
 
@@ -53,13 +53,16 @@ I have or haven't used AI in class this semester in the following areas:
 
 ### V. Challenges and Opportunities:
 
-  As mentioned above, I have encountered varying levels of accuracy in what ChatGPT produces. The more advanced the issue, the more likely ChatGPT will solve it wrong. Even better? ChatGPT has occasionally completely rearranged that chunk of my code so that I receive more errors than what I originally had. Still, I think it would be helpful to have AI tools like ChatGPT continue being allowed in the course simply so that students can see what AI is capable of—and what they will be competing against in the job market. Machine learning (ICS 235, 435, 635) should continue being taught as it is a fundamental aspect of many platforms.
+  As mentioned above, I have encountered varying levels of accuracy in what ChatGPT produces. The more advanced the issue, the more likely ChatGPT will solve it wrong. Even better? ChatGPT has occasionally completely rearranged that chunk of my code so that I receive more errors than what I originally had. Still, I think it would be helpful to have AI tools like ChatGPT continue being allowed in this course, specifically, so that students can see what AI is capable of—and what they will be competing against in the job market. Machine learning (ICS 235, 435, 635) should continue being taught as it is a fundamental aspect of many platforms.
 
 ### VI. Comparative Analysis:
 
-  In my personal opinion, 
+ "Traditional" teaching materials, i.e., videos, PowerPoints, and textbooks, are better for overall knowledge retention and engagement since students are forced to learn the material rather than having the answer given immediately. Simply entering a prompt into a text field or having a line of code auto-filled for you does not constitute proper learning. To truly develop one's coding skills, the learner should begin by coding from scratch so they can truly understand the function of each line of code. However, ICS 314 should retain its AI-enhanced approaches to software engineering since the course aims to cover tools prevalent in the industry. For better or worse, AI has become widespread throughout the software engineering field and students should at least be aware of its impact—whether they want to use it or not is ultimately up to them.
 
 ### VII. Future Considerations:
 
+  Ultimately, AI will likely harm overall software engineering education for students, who may become reliant on AI to code for them. AI tools like ChatGPT have become all-too-convenient for students to use as a clutch in replacement of a proper education. It should remain as it is: a tool that can be a part of a programmer's arsenal but will never replace the programmer's purpose itself. AI in general has been progressing at an alarming rate. At the minimum, students should have a fundamental understanding of the systems they are developing to overcome the standards AI has set.
 
 ### VIII. Conclusion:
+
+  While AI should remain an *option* for students who wish to use it, as the purpose of the course is to provide students with an accurate overview of the state of the software engineering industry, students should also be cautioned about overrelying on AI. 
