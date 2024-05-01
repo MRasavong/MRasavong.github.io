@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Artificial Intelligence: Are We the Tools of Our Tools?"
 # All dates must be YYYY-MM-DD format!
-date: 2024-04-24
+date: 2024-05-01
 published: true
 labels:
   - Software Engineering
