@@ -24,22 +24,22 @@ The only AI tool I have used generally and in ICS 314—not counting the existin
 I have or haven't used AI in class this semester in the following areas:
 
 1. I didn't use AI to solve the **experience WODs** (workouts of the day) and relied solely on learning resources such as documentation or Professor Johnson's videos, as I knew exactly what I was being asked to code and given ample time to prepare.
-2. I used AI to help solve the timed **in-class practice WODs** as ChatGPT can spit out relevant lines of code quickly and efficiently.
+2. I used AI to help solve the timed **in-class practice WODs** as ChatGPT can spit out relevant lines of code quickly and efficiently.\
    Example prompt: I wanted to align the columns in my footer toward the left more and asked "Align the columns in my footer slightly toward the left <existing footer code>."
-4. I used AI to help solve the timed **in-class WODs** for the same reasons above.
+4. I used AI to help solve the timed **in-class WODs** for the same reasons above.\
    Example prompt: I wanted to figure out why my background image wasn't showing and asked "Fix my background image not showing <existing landing page component code and style.css code>."
 6. I didn't use AI to write **essays** as I have always enjoyed creative writing, with the ICS 314 essays being no exception. AI cannot replicate the wit and altogether humane charm of personal writing.
-7. The **final project** incorporated new features that didn't exist in the homework assignments, so I relied on AI to integrate them into the rest of my code.
+7. The **final project** incorporated new features that didn't exist in the homework assignments, so I relied on AI to integrate them into the rest of my code.\
    Example prompt: I wanted to figure out how to have my Add Item page accept the user's images and asked "Add image field <existing Add Item page code and Lost Object component code>."
 9. I didn't use AI to **learn a concept or tutorial** as I relied primarily on the material given to me by the instructors.
 10. I didn't use AI to **answer a question in class or on Discord** since it was all content we had gone over before.
 11. I didn't use AI to ask or answer **"smart questions"** frankly because I rarely looked at that Discord channel.
 12. I didn't use AI for **coding examples** such as "give an example of using Underscore .pluck” because they are short and sweet. Hence, if I was stuck, I only needed to Google it.
 13. I didn't use AI to **explain code** as all I had to do was translate code into plain English.
-14. I used AI to **write code** as mentioned earlier when I stated that I used ChatGPT to solve the in-class WODs and integrate new features into my final project.
+14. I used AI to **write code** as mentioned earlier when I stated that I used ChatGPT to solve the in-class WODs and integrate new features into my final project.\
     Example prompt:
 16. I didn't use AI to **document code** as, again, I only needed to translate code into plain English. The raw code I did need already existed within my project to copy and paste.
-17. **Quality assurance** was where I used AI the most since it was highly convenient to have files with hundreds of lines of code automatically fixed for me.
+17. **Quality assurance** was where I used AI the most since it was highly convenient to have files with hundreds of lines of code automatically fixed for me.\
     Example prompt:
 19. I didn't use AI for any other purposes.
 
