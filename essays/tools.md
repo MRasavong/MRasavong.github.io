@@ -33,7 +33,7 @@ I have or haven't used AI in class this semester in the following areas:
    Example prompt: I wanted to figure out how to have my Add Item page accept the user's images and asked "Add image field <Add Item page code and Lost Object component code>."
 6. I didn't use AI to **learn a concept or tutorial** as I relied primarily on the material given to me by the instructors.
 7. I didn't use AI to **answer a question in class or on Discord** since it was all content we had gone over before.
-8. I didn't use AI to ask or answer **"smart questions"** frankly because I rarely looked at that Discord channel.
+8. I didn't use AI to ask or answer **"smart questions"** because I knew how to format questions appropriately and would only answer questions I was confident about.
 9. I didn't use AI for **coding examples** because they tended to be short and sweet. Hence, if I was stuck, I only needed to Google it.
 10. I didn't use AI to **explain code** as all I had to do was translate code into plain English.
 11. I used AI to **write code** as mentioned earlier when I stated that I used ChatGPT to solve the in-class WODs and integrate new features into my final project.\
@@ -65,4 +65,4 @@ I have or haven't used AI in class this semester in the following areas:
 
 ### VIII. Conclusion:
 
-  While AI should remain an *option* for students who wish to use it, as the purpose of the course is to provide students with an accurate overview of the state of the software engineering industry, students should also be cautioned about overrelying on AI. 
+  While AI should remain an *option* for students who wish to use it, as the purpose of the course is to provide students with an accurate overview of the state of the software engineering industry, students should also be cautioned about depending on AI too much. 
