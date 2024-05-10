@@ -10,7 +10,7 @@ labels:
   - Web Development
 ---
 <p align="center">
-  <img src="../img/laptop.jpg" />
+  <img style="margin-right: 1.5rem" align="left" height="auto" width="500" src="../img/laptop.jpg" />
 </p>
 
 ## Consistency in Life and Software
