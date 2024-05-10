@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/lost-items-square.png
+image: img/lost-items-database-square.png
 title: "UHM Lost and Found"
 date: 2024
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A web application dedicated to posting lost and found items for the University of Hawaii Manoa campus."
 ---
 <p align="center">
-  <img src="../img/lost-items-full.png" width="600" />
+  <img src="../img/lost-items-database-full.png" width="600" />
 </p>
 
 UHM Lost and Found is a web application developed as the final project for our software engineering class. This project aimed to address the common problem of lost and found items on the University of Hawaii Manoa campus by providing a centralized platform for posting and retrieving lost items.
