@@ -39,6 +39,34 @@ summary: "A web application dedicated to posting lost and found items for the Un
 
   Other minor contributions included creating the footer and fixing several bugs here and there. Regarding the add and edit functionalities, I ensured that each department would only be able to add and edit items from their department and that the admin account would have edit access to items from all departments. I also wrote the acceptance tests such that they would test the various functionalities of each page, from verifying that the read more button displays item descriptions to checking that attempts to add a duplicate department would result in the appropriate error message. Subsequently, I wrote the developer guide on the GitHub home page to provide a step-by-step process for running acceptance tests.
 
+Below is an acceptance test I wrote to test the add function for departmental accounts:
+
+```
+// Test that ADD ITEM page appears after signing in with a departmental account and items can be added
+test('Test that ADD ITEM page appears after signing in with a departmental account and items can be added', async (testController) => {
+  // Sign in with departmental credentials
+  await navBar.gotoSignInPage(testController);
+  await signinPage.signin(testController, departmentCredentials.username, departmentCredentials.password);
+
+  // Click the "ADD ITEM" link
+  await testController.click(Selector('a').withText('ADD ITEM'));
+
+  // Fill out the form to add an item
+  await testController.typeText('input[name="name"]', 'Test Item');
+  await testController.typeText('input[name="dateFound"]', '01/01/2024');
+  await testController.typeText('input[name="locationFound"]', 'Test Location');
+  await testController.typeText('input[name="currentDepartment"]', 'Test Department');
+  await testController.typeText('input[name="image"]', 'https://www.picpedia.org/highway-signs/images/testing.jpg');
+
+  // Submit the form by clicking the submit button
+  await testController.click('input[type="submit"].btn.btn-primary');
+
+  // Ensure success message is displayed
+  const successMessage = Selector('div.swal-title').withText('Success');
+  await testController.expect(successMessage.exists).ok();
+});
+```
+
 ## Lessons Learned
 
   Through working on this project, I gained a deeper understanding of the importance of meticulous testing in ensuring the reliability of software systems. Often, when one functionality fails, the entire system becomes impacted—inevitable considering the interconnected nature of software. By being tasked with addressing potential issues before they escalate, I was able to deepen both my quality assurance skills and my knowledge of the system itself. Aside from technical skills, I also honed my ability to collaborate effectively within a team and communicate technical concepts to everyday users. This project provided me with ample opportunities to practice interpersonal skills, such as active listening, constructive feedback, and conflict resolution—all crucial for successful teamwork. Additionally, I learned to adapt my communication style to suit different team members' preferences and expertise levels, fostering a more productive working environment.
