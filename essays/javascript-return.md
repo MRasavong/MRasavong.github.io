@@ -4,7 +4,7 @@ type: essay
 title: "Here We Go Again: An Inevitable Return to JavaScript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
-published: true
+published: false
 labels:
   - JavaScript
 ---
