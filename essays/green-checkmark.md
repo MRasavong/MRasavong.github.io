@@ -10,9 +10,7 @@ labels:
   - IntelliJ
   - JavaScript
 ---
-<p align="center">
-  <img src="../img/eslint.png" />
-</p>
+<img style="margin-right: 1.5rem" align="left" height="auto" width="300" src="../img/eslint.png" />
 
 ## Holding Myself to a Higher Standard
 
