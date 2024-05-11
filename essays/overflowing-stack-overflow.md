@@ -4,7 +4,7 @@ type: essay
 title: "How to Avoid Overflowing Stack Overflow"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-24
-published: true
+published: false
 labels:
   - Stack Overflow
 ---
