@@ -14,24 +14,24 @@
     ]
   },
   "interests": [
-    { "name": "Full Stack Development"},
-    { "name": "Machine Learning"},
-    { "name": "Data Management"},
-    { "name": "Cloud Computing"},
-    { "name": "High Performance Computing"}
+    { "name": "Digital Forensics"},
+    { "name": "Networking"},
+    { "name": "Information Technology"},
+    { "name": "DevOps"},
+    { "name": "Full Stack Development"}
   ],
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "Java, Python, JavaScript, HTML, CSS" ]
+      "keywords": [ "C/C++, Java, Python, JavaScript, HTML/CSS" ]
     },
     {
       "name": "Frameworks and Libraries",
-      "keywords": [ "Node.js, React, Redux, jQuery, Bootstrap, JUnit" ]
+      "keywords": [ "Node.js, React, Bootstrap, JUnit" ]
     },
     {
       "name": "Developer Tools",
-      "keywords": [ "Git, Linux, Docker, Visual Studio Code, IntelliJ, PyCharm, Eclipse, VirtualBox" ]
+      "keywords": [ "Git, Linux, Docker, MongoDB, VirtualBox, Vim, Visual Studio Code, IntelliJ, PyCharm, CLion, Eclipse" ]
     }
   ],
   "education": [
