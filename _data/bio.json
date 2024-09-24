@@ -48,6 +48,18 @@
   "work": [
     {
       "company": "University of Hawai‘i System",
+      "position": "Data Automation Assistant",
+      "website": "https://www.hawaii.edu/sustainability/",
+      "startDate": "2024-09-18",
+      "endDate": "Present",
+      "summary": "Develop Python scripts to analyze and manage campus electrical power consumption data.",
+      "highlights": [
+        "Access and query PostgreSQL databases using the Linux command line to ensure accurate and efficient data retrieval, supporting comprehensive analysis of energy consumption patterns",
+        "Effectively communicate findings and insights to team members, fostering data-driven solutions across various departmental sustainability projects"
+      ]
+    },
+    {
+      "company": "University of Hawai‘i System",
       "position": "Undergraduate Researcher",
       "website": "https://www.hawaii.edu/climate-data-portal/",
       "startDate": "2024-01-08",
