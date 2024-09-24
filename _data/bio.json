@@ -52,9 +52,10 @@
       "website": "https://www.hawaii.edu/sustainability/",
       "startDate": "2024-09-18",
       "endDate": "Present",
-      "summary": "Develop Python scripts to analyze and manage campus electrical power consumption data.",
+      "summary": "Develop Python scripts to analyze campus electrical consumption, identifying peak demand times and suggesting energy-saving strategies.",
       "highlights": [
-        "Access and query PostgreSQL databases using the Linux command line to ensure accurate and efficient data retrieval, supporting comprehensive analysis of energy consumption patterns",
+        "Create interactive web applications that integrate and visualize database content for improved user engagement",
+        "Utilize the Linux command line to access and query PostgreSQL databases for efficient data retrieval",
         "Effectively communicate findings and insights to team members, fostering data-driven solutions across various departmental sustainability projects"
       ]
     },
