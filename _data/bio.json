@@ -23,15 +23,19 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "C/C++, Java, Python, JavaScript, HTML/CSS" ]
+      "keywords": [ "C/C++, Java, Python, SQL, JavaScript, HTML/CSS" ]
     },
     {
       "name": "Frameworks and Libraries",
-      "keywords": [ "Node.js, React, Bootstrap, JUnit" ]
+      "keywords": [ "Meteor, Bootstrap, Flask, JUnit, React" ]
     },
     {
       "name": "Developer Tools",
-      "keywords": [ "Git, Linux, Docker, MongoDB, VirtualBox, Vim, Visual Studio Code, IntelliJ, PyCharm, CLion, Eclipse" ]
+      "keywords": [ "Linux, Git, Docker, VirtualBox, Node.js, PostgreSQL, gcc, g++, Vim" ]
+    }
+        {
+      "name": "Certifications",
+      "keywords": [ "CompTIA Security+" ]
     }
   ],
   "education": [
