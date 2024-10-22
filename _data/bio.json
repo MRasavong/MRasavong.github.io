@@ -103,20 +103,23 @@
   ],
   "volunteer": [
     {
-      "organization": "Supporting Women in Information Technology and Computing in Hawaii (SWITCH)",
-      "website": "https://switch-uhm.github.io/",
-      "position": "Team Member",
-      "startDate": "2023-08-22",
-      "endDate": "Present",
-      "summary": "A STEM organization whose purpose is to support women and minorities, promote gender and racial equality, and foster professional growth for students in Information and Computer Sciences."
-    },
-    {
       "organization": "Grey Hats",
       "website": "https://uhmgreyhats.github.io/",
       "position": "Team Member",
       "startDate": "2022-08-30",
       "endDate": "Present",
-      "summary": "Participated in a student-led, extracurricular organization focused on real-world training for cyber defense."
+      "summary": "Student-led organization focused on providing real-world training in cyber defense."
+      "highlights": [
+        "Competed in Hivestorm 2024: Secured a Windows server by removing malware, correcting misconfigurations, and mitigating vulnerabilities, utilizing system administration and digital forensics skills under time constraints"
+      ]
+    },
+    {
+      "organization": "Supporting Women in Information Technology and Computing in Hawaii (SWITCH)",
+      "website": "https://switch-uhm.github.io/",
+      "position": "Team Member",
+      "startDate": "2023-08-22",
+      "endDate": "Present",
+      "summary": "STEM organization dedicated to supporting women and minorities, promoting gender and racial equality, and fostering professional growth in the tech field."
     }
   ],
   "awards": [
