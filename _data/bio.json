@@ -18,7 +18,7 @@
     { "name": "Networking"},
     { "name": "Information Technology"},
     { "name": "DevOps"},
-    { "name": "Application Security"}
+    { "name": "AppSec"}
   ],
   "skills": [
     {
@@ -110,7 +110,7 @@
       "endDate": "Present",
       "summary": "Student-led organization focused on providing real-world training in cyber defense.",
       "highlights": [
-        "Competed in Hivestorm 2024: Secured a Windows server by removing malware, correcting misconfigurations, and mitigating vulnerabilities, utilizing system administration and digital forensics skills under time constraints"
+        "Competed in Hivestorm 2024, scoring in the top 36% nationwide: Secured a Windows server by removing malware, correcting misconfigurations, and mitigating vulnerabilities, utilizing system administration and digital forensics skills under time constraints"
       ]
     },
     {
