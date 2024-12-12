@@ -58,8 +58,9 @@
       "endDate": "Present",
       "summary": "Develop Python scripts to manage and analyze campus electrical power consumption, identifying peak demand times and energy-saving strategies.",
       "highlights": [
-        "Design interactive web applications integrating PostgreSQL databases, delivering dynamic data visualizations that enhance engagement with sustainability initiatives",
-        "Present analytical findings to team members, fostering data-driven solutions across various departmental sustainability projects"
+        "Create interactive web applications to visualize data and enhance user engagement with sustainability initiatives",
+        "Utilize the Linux command line to access and query PostgreSQL databases for efficient data retrieval",
+        "Communicate analytical findings to team members, fostering data-driven solutions across various departmental sustainability projects"
       ]
     },
     {
@@ -68,10 +69,11 @@
       "website": "https://www.hawaii.edu/climate-data-portal/",
       "startDate": "2024-01-08",
       "endDate": "2024-05-01",
-      "summary": "Contributed to the development and maintenance of the Hawaii Climate Data Portal (HCDP) as a member of the cyberinfrastructure software development team.",
+      "summary": "Contribute to the development and maintenance of the Hawai‘i Climate Data Portal (HCDP) as a member of the cyberinfrastructure software development team.",
       "highlights": [
-        "Assisted in implementing an email API for the Hawaii Mesonet, enabling automated notifications for real-time weather data updates",
-        "Identified, communicated, and mitigated potential setbacks in collaboration with campus cyberinfrastructure and network operators"
+        "Implement the Hawai‘i Mesonet, a user-friendly live data access tool integrated into the HCDP platform",
+        "Visualize data for current weather conditions and elevation levels from an extensive network of approximately one hundred telemetered stations",
+        "Identify, communicate, and mitigate potential setbacks in collaboration with campus cyberinfrastructure and network operators"
       ]
     },
     {
@@ -80,9 +82,9 @@
       "website": "https://www.hawaii.edu/sitelic/",
       "startDate": "2023-08-14",
       "endDate": "2024-01-04",
-      "summary": "Supported, managed, and administered licenses for software and application services in the Information Technology Services Site License department.",
+      "summary": "Supported, managed, and administered licenses for software and application services.",
       "highlights": [
-        "Coordinated the installation of various system software and related utilities including Microsoft and Adobe products, statistical analysis software, and cloud storage services",
+        "Assisted in installing and upgrading various system software and related utilities including Microsoft and Adobe products, statistical analysis software, and cloud storage services",
         "Diagnosed and resolved technical issues with hardware, peripherals, network connections, and external software on Windows and macOS devices"
       ]
     },
